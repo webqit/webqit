@@ -1,3 +1,3 @@
 # WebQit Community
 The community for WebQit developers!
-[Join now](discussions)
+[Join or follow the conversations](/webqit/community/discussions)
