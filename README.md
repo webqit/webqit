@@ -1,2 +1,3 @@
-# community
-The community for WebQit developers
+# WebQit Community
+The community for WebQit developers!
+[Join now](discussions)
