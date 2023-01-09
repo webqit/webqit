@@ -1,6 +1,6 @@
 # The WebQit Project
 
-*Bank more on the web platform and less on abstractions!*
+"*Bank more on the web platform and less on abstractions!*" - WebQit
 
 ## What We're Working On
 
@@ -12,7 +12,7 @@ Web native tooling around the concept of `state`, `reactivity`, `data binding`, 
 - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
 - *[and more](https://github.com/webqit)*.
 
-## About the WebQit Community
+## About the WebQit Project
 
 WebQit is a focused initiative to ezplore new ways to leverage the web platform! We're drawing on learnings from the past decade to develop the tooling, cloud, and xommhnity for web native development.
 
