@@ -54,7 +54,7 @@ _Also, we'd be super excited to have **your star** 🌟_
 
 Help make the WebQit project sustainable with your financial support at [Open Collective](https://opencollective.com/webqit).
 
-_Special thanks to **our first sponsor**_: <a href="https://github.com/orgs/webqit/people/ejiro-design"><img src="https://avatars.githubusercontent.com/u/79667751?s=96&v=4" height="20px" /></a>
+_Special thanks to **our first sponsor**_: <a href="https://github.com/ejiro-design"><img src="https://avatars.githubusercontent.com/u/79667751?s=96&v=4" height="20px" /></a>
 
 ## The WebQit Community
 
