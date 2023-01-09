@@ -1,8 +1,6 @@
 # The WebQit Project
 
-<center>
 ![webQit logo](https://webqit.io/assets/img/logo/logo-name-try-130x130.png)
-</center>
 
 The tooling, cloud, and community for web native development! [WebQit.io](https://webqit.io)
 
