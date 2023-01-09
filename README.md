@@ -6,10 +6,10 @@ The tooling, cloud, and community for web native development! *Bank more on the 
 
 Web native tooling around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and more.
 
-- **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: The basic, one-liner answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
-- **[The Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API. (Think the return of the `Object.observe()` API, but one for every occasion!)
-- **[OOHTML](https://github.com/webqit/oohtml)**: The DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
-- **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
+- **[JavaScript Graph Functions](https://github.com/webqit/subscript)** (proposal/polyfill): The basic, one-liner answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
+- **[The Observer API](https://github.com/webqit/observer)** (proposal/polyfill): The JavaScript object observability API. (Think the return of the `Object.observe()` API, but one for every occasion!)
+- **[OOHTML](https://github.com/webqit/oohtml)** (proposal/polyfill): The DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
+- **[Webflo](https://github.com/webqit/webflo)** (framework): The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
 - *[and more](https://github.com/webqit)*.
 
 ## About the WebQit Project
