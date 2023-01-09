@@ -34,7 +34,7 @@ WebQit is a focused initiative to ezplore new ways to leverage the web platform!
 
 We're big on web standards and believe the best use of our time is to build new technologies that extend the standards, rather than obscure them. Our projects are therefore often of proposals and polyfills for new DOM and browser APIs that push the limits to what's possible natively.
 
-## Why Web Native Tooling
+## Motivation
 
 Frameworks encode a lot of good thinking, but come at a price!
 
@@ -48,13 +48,15 @@ Perhaps, this is the best way to move the web forward!
 
 It's easy, and especially kind on our day of little beginnings! We welcome any form of contribution - PR, issue, discussion, etc - on any of these projects.
 
-_Also, we'd be super excited to have **your star** 🌟_
+_Also, we'd be super excited to have **you leave us a star** 🌟_
 
 ## Open Collective
 
-Help make the WebQit project sustainable with your financial support at [Open Collective](https://opencollective.com/webqit).
+Help make the WebQit project sustainable with your financial support - [Open Collective / **webqit**](https://opencollective.com/webqit).
 
-_Special thanks to **our first sponsor**_: <a href="https://github.com/ejiro-design"><img src="https://avatars.githubusercontent.com/u/79667751?s=96&v=4" height="20px" /></a>
+_Special thanks to **our first sponsor**_:
+
+<a href="https://github.com/ejiro-design"><img src="https://avatars.githubusercontent.com/u/79667751?s=96&v=4" height="50px" /></a>
 
 ## The WebQit Community
 
