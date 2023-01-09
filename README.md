@@ -46,13 +46,13 @@ Perhaps, this is the best way to move the web forward!
 
 ## Getting Involved
 
-It's easy... and especially kind on our day of little beginnings! We welcome any form of contribution - PR, issue, documentation, etc - on any of our projects.
+We welcome any form of contribution - PR, issue, documentation, etc - on any of our projects. And it's easy!
 
-_Also, we'd be super excited to have **you leave us a star** 🌟_
+_Also, we'd be super excited to have **you leave us a star** 🌟. It's especially kind on our day of little beginnings!_
 
 ## Open Collective
 
-Help make the WebQit project sustainable with your financial support - [Open Collective / **webqit**](https://opencollective.com/webqit).
+Help make the WebQit open source project sustainable with your financial support - [Open Collective / **webqit**](https://opencollective.com/webqit).
 
 _Special thanks to **our first sponsor**_:
 
