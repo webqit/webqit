@@ -1,6 +1,6 @@
 # The WebQit Project
 
-<img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" style="float:right" />
+<img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
 
 The tooling, cloud, and community for web native development - [WebQit.io](https://webqit.io)
 
