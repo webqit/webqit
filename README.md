@@ -32,7 +32,7 @@ Web native tooling around the concept of `state`, `reactivity`, `data binding`, 
 
 WebQit is a focused initiative to explore new ways to leverage the web platform! We're drawing on learnings from the past decade to develop the tooling, cloud, and xommhnity for web native development.
 
-We're big on web standards and believe the best use of our time is to build new technologies that extend the standards, rather than obscure them. Our projects are therefore often of proposals and polyfills for new DOM and browser APIs that push the limits to what's possible natively.
+We're big on web standards and believe that the best use of our time is to build new technologies that extend the standards, rather than obscure them. Our projects are therefore often of proposals and polyfills for new DOM and browser APIs that push the limits to what's possible natively.
 
 ## Motivation
 
