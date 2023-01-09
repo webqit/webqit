@@ -16,4 +16,18 @@ Perhaps, this is the best way to move the web forward!
 
 ## What We're Working On
 
+Web native tooling around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and more.
+
+- **[JavaScript Graph Functions](https://github.com/webqit/subscript)**: The basic, one-liner answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
+- **[The Observer API](https://github.com/webqit/observer)**: The JavaScript object observability API. (Think the return of the `Object.observe()` API, but one for every occasion!)
+- **[OOHTML](https://github.com/webqit/oohtml)**: The DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
+- **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
+- *[and more](https://github.com/webqit)*.
+
+## Getting Involved
+
+It's easy, and especially kind on our day of little beginnings! We welcome any form of contribution - PR, issue, discussion, etc - on any of these projects.
+
+## Community
+
 [Join or follow the conversations](https://github.com/webqit/webqit/discussions)
