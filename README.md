@@ -48,7 +48,7 @@ Perhaps, this is the best way to move the web forward!
 
 We welcome any form of contribution - PR, issue, documentation, etc - on any of our projects. And it's easy!
 
-_Also, we'd be super excited to have **you leave us a star** 🌟. It's especially kind on our day of little beginnings!_
+Also, we'd be super excited to have **you leave us a star** 🌟. _It's especially kind on our day of little beginnings!_
 
 ## Open Collective
 
