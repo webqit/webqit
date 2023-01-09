@@ -48,6 +48,14 @@ Perhaps, this is the best way to move the web forward!
 
 It's easy, and especially kind on our day of little beginnings! We welcome any form of contribution - PR, issue, discussion, etc - on any of these projects.
 
+You may also leave us a star 🌟
+
+## Open Collective
+
+Help make the WebQit project sustainable with your financial support at [Open Collective](https://opencollective.io/webqit).
+
+*Special thanks to our first backer*!
+
 ## The WebQit Community
 
 [Join or follow the conversations](https://github.com/webqit/webqit/discussions)
