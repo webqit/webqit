@@ -12,7 +12,7 @@ Web native tooling around the concept of `state`, `reactivity`, `data binding`, 
 
 ### [JavaScript Graph Functions](https://github.com/webqit/subscript)
 
-[Proposal/polyfill] The basic, one-liner answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
+[Proposal/polyfill] The basic, one-liner approach to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
 
 ### [The Observer API](https://github.com/webqit/observer)
 
