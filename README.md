@@ -1,6 +1,6 @@
 # The WebQit Project
 
-![webQit logo](https://webqit.io/assets/img/logo.png)
+![webQit logo](https://webqit.io/assets/img/logo/logo-130x130.png)
 
 The tooling, cloud, and community for web native development! WebQit.io
 
@@ -12,27 +12,19 @@ Web native tooling around the concept of `state`, `reactivity`, `data binding`, 
 
 ### [JavaScript Graph Functions](https://github.com/webqit/subscript)
 
-> proposal/polyfill
-
-The basic, one-liner answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
+[Proposal/polyfill] The basic, one-liner answer to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
 
 ### [The Observer API](https://github.com/webqit/observer)
 
-> proposal/polyfill
-
-The JavaScript object observability API. (Think the return of `Object.observe()`, but one for every occasion!)
+[Proposal/polyfill] The JavaScript object observability API. (Think the return of `Object.observe()`, but one for every occasion!)
 
 ### [OOHTML](https://github.com/webqit/oohtml)
 
-> proposal/polyfill
-
-The DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
+[Proposal/polyfill] The DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
 
 ### [Webflo](https://github.com/webqit/webflo)
 
-> framework
-
-The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
+[Framework] The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
 
 ### *[and more](https://github.com/webqit)*
 
