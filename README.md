@@ -48,13 +48,13 @@ Perhaps, this is the best way to move the web forward!
 
 It's easy, and especially kind on our day of little beginnings! We welcome any form of contribution - PR, issue, discussion, etc - on any of these projects.
 
-*We'd be super excited to have your star 🌟*
+_Also, we'd be super excited to have **your star** 🌟_
 
 ## Open Collective
 
 Help make the WebQit project sustainable with your financial support at [Open Collective](https://opencollective.com/webqit).
 
-*Special thanks to our first backer*: <a href="https://github.com/orgs/webqit/people/ejiro-design"><img src="https://avatars.githubusercontent.com/u/79667751?s=96&v=4" height="20px" /></a>
+_Special thanks to **our first sponsor**_: <a href="https://github.com/orgs/webqit/people/ejiro-design"><img src="https://avatars.githubusercontent.com/u/79667751?s=96&v=4" height="20px" /></a>
 
 ## The WebQit Community
 
