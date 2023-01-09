@@ -46,7 +46,7 @@ Perhaps, this is the best way to move the web forward!
 
 ## Getting Involved
 
-It's easy... and especially kind on our day of little beginnings! We welcome any form of contribution - PR, issue, discussion, etc - on any of these projects.
+It's easy... and especially kind on our day of little beginnings! We welcome any form of contribution - PR, issue, documentation, etc - on any of our projects.
 
 _Also, we'd be super excited to have **you leave us a star** 🌟_
 
