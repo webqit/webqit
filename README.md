@@ -1,6 +1,8 @@
 # The WebQit Project
 
-> The tooling, cloud, and community for web native development! *Bank more on the web platform and less on abstractions!*
+The tooling, cloud, and community for web native development!
+
+> *Bank more on the web platform and less on abstractions!*
 
 ## What We're Working On
 
