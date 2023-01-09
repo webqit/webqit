@@ -1,10 +1,8 @@
 # The WebQit Project
 
-![webQit logo](https://webqit.io/assets/img/logo/logo-130x130.png)
+<img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" style="float:right" />
 
-<p>
 The tooling, cloud, and community for web native development - [WebQit.io](https://webqit.io)
-</p>
 
 > *Bank more on the web platform and less on abstractions!*
 
