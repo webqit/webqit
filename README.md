@@ -1,8 +1,6 @@
 # The WebQit Project
 
-The tooling, cloud, and community for web native development!
-
-*Bank more on the web platform and less on abstractions!*
+The tooling, cloud, and community for web native development! *Bank more on the web platform and less on abstractions!*
 
 ## What We're Working On
 
@@ -34,6 +32,6 @@ Perhaps, this is the best way to move the web forward!
 
 It's easy, and especially kind on our day of little beginnings! We welcome any form of contribution - PR, issue, discussion, etc - on any of these projects.
 
-## Community
+## The WebQit Community
 
 [Join or follow the conversations](https://github.com/webqit/webqit/discussions)
