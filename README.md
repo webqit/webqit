@@ -1,48 +1,19 @@
-# The WebQit Project
+# Futuristic Tooling for Today's Applications!
 
 <img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
 
-The tooling, cloud, and community for web native development - [WebQit.io](https://webqit.io)
+An ecosystem of technologies that explore new ways to go web-native!
 
-> *Bank more on the web platform and less on abstractions!*
+## Platform-Level Tooling (Proposals and Polyfills):
 
-## What We're Working On
+- **[JavaScript Contract Functions](https://github.com/webqit/subscript)**: An upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
+- **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)
+- **[OOHTML](https://github.com/webqit/oohtml)**: An upcoming proposal for a DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
 
-Web native tooling around the concept of `state`, `reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, and more.
+## Application-Level Tooling (Libraries and Frameworks):
 
-### [JavaScript Graph Functions](https://github.com/webqit/subscript)
-
-[Proposal/polyfill] The basic, one-liner approach to fine-grained reactivity. (Introducing Imperative Reactive Programming (IRP) in JavaScript.)
-
-### [The Observer API](https://github.com/webqit/observer)
-
-[Proposal/polyfill] The JavaScript object observability API. (Think the return of `Object.observe()`, but one for every occasion!)
-
-### [OOHTML](https://github.com/webqit/oohtml)
-
-[Proposal/polyfill] The DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
-
-### [Webflo](https://github.com/webqit/webflo)
-
-[Framework] The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
-
-### *[and more](https://github.com/webqit)*
-
-## About the WebQit Project
-
-WebQit is a focused initiative to explore new ways to leverage the web platform! We're drawing on learnings from the past decade to develop the tooling, cloud, and xommhnity for web native development.
-
-We're big on web standards and believe that the best use of our time is to build new technologies that extend the standards, rather than obscure them. Our projects are therefore often of proposals and polyfills for new DOM and browser APIs that push the limits to what's possible natively.
-
-## Motivation
-
-Frameworks encode a lot of good thinking, but come at a price!
-
-The web platform gives us much for free, but leaves much to be desired!
-
-Web native tooling is how all of that good thinking find their way to the web platform! This helps everyone bank more on the platform and less on abstractions!
-
-Perhaps, this is the best way to move the web forward!
+- **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
+- *[etc](https://github.com/webqit)*.
 
 ## Getting Involved
 
