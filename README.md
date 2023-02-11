@@ -2,9 +2,9 @@
 
 <img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
 
-An ecosystem of technologies that explore new ways to go web-native!
+An ecosystem of technologies that explore new ways to go web-native! (*[Learn more about the WebQit project](https://github.com/webqit).*)
 
-## Web-Native Tooling on Two Tracks:
+## Our Web-Native Expedition on Two Tracks:
 
 - **Platform-Level Tooling (Proposals and Polyfills):**
 
