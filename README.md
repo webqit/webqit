@@ -2,20 +2,20 @@
 
 <img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
 
-An ecosystem of technologies that explore new ways to go web-native! *[Learn more about the WebQit project](https://github.com/webqit).*
+Explore a new ecosystem of technologies that open up new ways to go web-native on the modern application story! *[Learn more about the WebQit project](https://github.com/webqit).*
 
-## Our Web-Native Expedition on Two Tracks:
+## Our Work on Two Tracks:
 
-- **Platform-Level Tooling (Proposals and Polyfills):**
+**Platform-Level Tooling (Proposals and Polyfills):**
 
-  - **[JavaScript Contract Functions](https://github.com/webqit/subscript)**: An upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
-  - **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)
-  - **[OOHTML](https://github.com/webqit/oohtml)**: An upcoming proposal for a DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
+- **[JavaScript Contract Functions](https://github.com/webqit/subscript)**: An upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
+- **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)
+- **[OOHTML](https://github.com/webqit/oohtml)**: An upcoming proposal for a DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
 
-- **Application-Level Tooling (Libraries and Frameworks):**
+**Application-Level Tooling (Libraries and Frameworks):**
 
-  - **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
-  - *[etc](https://github.com/webqit)*.
+- **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
+- *[and more](https://github.com/webqit)*.
 
 ## Getting Involved
 
