@@ -2,7 +2,7 @@
 
 <img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
 
-An ecosystem of technologies that explore new ways to go web-native! (*[Learn more about the WebQit project](https://github.com/webqit).*)
+An ecosystem of technologies that explore new ways to go web-native! *[Learn more about the WebQit project](https://github.com/webqit).*
 
 ## Our Web-Native Expedition on Two Tracks:
 
