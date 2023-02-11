@@ -4,7 +4,7 @@
 
 An ecosystem of technologies that explore new ways to go web-native!
 
-## ...on Two Tracks
+## Web-Native Tooling on Two Tracks:
 
 - **Platform-Level Tooling (Proposals and Polyfills):**
 
