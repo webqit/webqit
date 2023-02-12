@@ -2,7 +2,9 @@
 
 <img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
 
-Explore a new ecosystem of technologies that open up new ways to go web-native on the modern application story! *[Learn more about the WebQit project](https://github.com/webqit).*
+Explore a new ecosystem of technologies that open up new ways to go web-native on the modern application story! Covering everything from `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, the `SPA/MPA/MPA+SPA` architecture, etc.
+
+*[Learn more about the WebQit project](https://github.com/webqit).*
 
 ## Our Work on Two Tracks:
 
