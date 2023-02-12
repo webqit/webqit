@@ -1,6 +1,6 @@
 # Futuristic Tooling for Today's Applications!
 
-<img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" />
+<a href="https://github.com/webqit"><img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" /></a>
 
 Explore a new ecosystem of technologies that open up new ways to go web-native on the modern application story!
 
