@@ -4,7 +4,7 @@
 
 Explore a new ecosystem of technologies that open up new ways to go web-native on the modern application story!
 
-Whether it's `state`, `fine-grained reactivity`, `data binding`, `routing`, `rendering`, the `component` model, or the `SPA/MPA/MPA+SPA` architecture, we're rethinking the modern application development paradigm to better involve the web platfrom!
+From the concept of *state*, *fine-grained reactivity*, *data binding*, *routing*, *rendering*, the *component* model, to the *SPA/MPA/MPA+SPA* architecture, we're rethinking the modern application development paradigm to better involve the web platfrom!
 
 *[Learn more about the WebQit project](https://github.com/webqit).*
 
