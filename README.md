@@ -17,7 +17,7 @@ You can tell us how cool we are by leaving us a star!
 You can help make the WebQit open source project sustainable with your financial support
 
 - [GitHub Sponsors / **ox-harris**](https://github.com/sponsors/ox-harris)
-- [Open Collective / **webqit**](https://opencollective.com/webqit).
+- [Open Collective / **webqit**](https://opencollective.com/webqit)
 
 <!--
 _Special thanks to **our first sponsor**_:
@@ -27,4 +27,4 @@ _Special thanks to **our first sponsor**_:
 
 ## The WebQit Community
 
-[Join or follow the conversations](https://github.com/webqit/webqit/discussions)
+- [Join or follow the conversations](https://github.com/webqit/webqit/discussions)
