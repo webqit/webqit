@@ -27,4 +27,4 @@ _Special thanks to **our first sponsor**_:
 
 ## The WebQit Community
 
-- [Join or follow the conversations](https://github.com/webqit/webqit/discussions)
+- [Join or follow the conversation on Github](https://github.com/webqit/webqit/discussions)
