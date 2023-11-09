@@ -19,9 +19,11 @@ You can help make the WebQit open source project sustainable with your financial
 - [GitHub Sponsors / **ox-harris**](https://github.com/sponsors/ox-harris)
 - [Open Collective / **webqit**](https://opencollective.com/webqit).
 
+<!--
 _Special thanks to **our first sponsor**_:
 
 <a href="https://github.com/ejiro-design"><img src="https://avatars.githubusercontent.com/u/79667751?s=96&v=4" height="50px" /></a>
+-->
 
 ## The WebQit Community
 
