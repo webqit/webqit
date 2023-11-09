@@ -1,35 +1,23 @@
-# Futuristic Tooling for Today's Applications!
+# Cool "Concept Cars" for the Modern Web!
 
-<a href="https://github.com/webqit"><img src="https://webqit.io/assets/img/logo/logo-130x130.png" alt="webQit logo" align="right" /></a>
+This is an active, open expedition on possible new ways to build on the modern web! Our work here encompasses everything from framework to compiler, CLIs to browser APIs! You can start from [our pinned repos](https://github.com/webqit)!
 
-Explore a new ecosystem of technologies that open up new ways to go web-native on the modern application story!
+From the concept of *state*, *fine-grained reactivity*, *data binding*, *routing*, *rendering*, the *component* model, to the *SPA/MPA/MPA+SPA* architecture, we're rethinking the modern application development approach **to better involve the web platfrom**!
 
-From the concept of *state*, *fine-grained reactivity*, *data binding*, *routing*, *rendering*, the *component* model, to the *SPA/MPA/MPA+SPA* architecture, we're rethinking the modern application development approach to better involve the web platfrom!
+We're, thus, big on web standards and are heavily invested in new technologies, proposals and polyfills that extend what's natively available. And here are some of our projects that are potentially on a standards track:
 
-*[Learn more about the WebQit project](https://github.com/webqit).*
+- [Stateful JS](https://github.com/webqit/stateful-js)
+- [The Observer API](https://github.com/webqit/observer)
+- [OOHTML](https://github.com/webqit/oohtml)
 
-## Our Work on Two Tracks:
+You can tell us how cool we are by leaving us a star!
 
-**Platform-Level Tooling (Proposals and Polyfills):**
+## Other Ways to Support
 
-- **[JavaScript Contract Functions](https://github.com/webqit/subscript)**: An upcoming proposal that lets us have fine-grained reactivity in the imperative form of the language. (Introducing Imperative Reactive Programming (IRP) in JavaScript!)
-- **[The Observer API](https://github.com/webqit/observer)**: An upcoming proposal for an object observability API in JavaScript. (Think the return of the `Object.observe()` API, but one for every occasion!)
-- **[OOHTML](https://github.com/webqit/oohtml)**: An upcoming proposal for a DOM API suite that enables a more modular and reusable HTML. ((Re)Introducing HTML Imports and more.)
+You can help make the WebQit open source project sustainable with your financial support
 
-**Application-Level Tooling (Libraries and Frameworks):**
-
-- **[Webflo](https://github.com/webqit/webflo)**: The universal framework for building *no-JS/low-JS* web sites and apps. (One epic piece that puts all of the above together.)
-- *[and more](https://github.com/webqit)*.
-
-## Getting Involved
-
-We welcome any form of contribution - PR, issue, documentation, etc - on any of our projects. And it's easy!
-
-Also, we'd be super excited to have **you leave us a star** 🌟. _It's especially kind on our day of little beginnings!_
-
-## Open Collective
-
-Help make the WebQit open source project sustainable with your financial support - [Open Collective / **webqit**](https://opencollective.com/webqit).
+- [GitHub Sponsors / **ox-harris**](https://github.com/sponsors/ox-harris)
+- [Open Collective / **webqit**](https://opencollective.com/webqit).
 
 _Special thanks to **our first sponsor**_:
 
